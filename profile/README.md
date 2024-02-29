@@ -1,13 +1,24 @@
-# We are against the war!
+# Open Telekom Cloud
 
+the Open Telekom Cloud is the public Cloud of Deutsche Telekom. It is run, operated, and maintained by the team of the Open Telekom Cloud at T-Systems INternational and its numerous branches europe- and world-wide. The Open Telekom Cloud is based on OpenStack, an Open Source licensed cloud platform governed by the OpenInfra Foundation and the OpenStack community at large. 
+
+This organization is hosting tools, utilities, libraries, documentation, tutorials, blueprints, and other useful content we create for our users.
+
+## We are against wars!
+
+We believe that there are better suited ways to resolve conflicts than armed actions. Listing any party here (as well as not listing some other) does not constitute taking side to anyone.
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
-	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine">
+  <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine">
 </a>
 
-## Open Telekom Cloud
+## Ecosystem Strategy
 
-This organization is hosting tools, utilities and other 
-useful content that we create for our users.
+Key values of our work include transparency and openness. We develop our deliverables in the open and under Open Source licenses. Unfortunately there are apparently infinite numbers of interesting tools, projects, and content pieces, but there's only a finite amount of time to deal with them. That's why we have to make a selection on what to support with a certain degree of maintenance.
+
+We have different levels of coverage of the various tools and projects:
+
+* **Maintained** means that there are colleagues assigned to monitor and maintain the project.
+* **Contributing** means that colleagues are contributing to the project, but the team lead or comitting rights are handled by someone else in the Community.
 
 <!--
 
