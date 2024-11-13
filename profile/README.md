@@ -1,32 +1,30 @@
-# Open Telekom Cloud
+# 🌐 Open Telekom Cloud
 
-the Open Telekom Cloud is the public Cloud of Deutsche Telekom. It is run, operated, and maintained by the team of the Open Telekom Cloud at T-Systems INternational and its numerous branches europe- and world-wide. The Open Telekom Cloud is based on OpenStack, an Open Source licensed cloud platform governed by the OpenInfra Foundation and the OpenStack community at large. 
+The **Open Telekom Cloud** (OTC) is the public cloud offering from **Deutsche Telekom**, managed and operated by **T-Systems International** and its global teams. OTC is based on **OpenStack**, an open-source cloud platform governed by the **OpenInfra Foundation** and the OpenStack community. This platform combines the **security**, **scalability**, and **flexibility** of open-source cloud technology with comprehensive support from Deutsche Telekom's global infrastructure.
 
-This organization is hosting tools, utilities, libraries, documentation, tutorials, blueprints, and other useful content we create for our users.
+---
 
-## We are against wars!
+### 🌱 Our Mission and Values
 
-We believe that there are better suited ways to resolve conflicts than armed actions. Listing any party here (as well as not listing some other) does not constitute taking side to anyone.
-<a href="https://gayanvoice.github.io/top-github-users/index.html">
-  <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine">
-</a>
+OTC is built on **transparency**, **collaboration**, and **openness**. We develop our resources—such as tools, utilities, libraries, documentation, tutorials, and blueprints—in the open and under open-source licenses. This ensures that both our internal and external developers can freely access and contribute to OTC’s resources, driving innovation and inclusivity.
 
-## Ecosystem Strategy
+---
+## 🚫 We Are Against Wars!
 
-Key values of our work include transparency and openness. We develop our deliverables in the open and under Open Source licenses. Unfortunately there are apparently infinite numbers of interesting tools, projects, and content pieces, but there's only a finite amount of time to deal with them. That's why we have to make a selection on what to support with a certain degree of maintenance.
+We believe there are **better ways to resolve conflicts** than through armed actions. Our choice to list or not list specific parties does **not imply taking sides**.
 
-We have different levels of coverage of the various tools and projects:
 
-* **Maintained** means that there are colleagues assigned to monitor and maintain the project.
-* **Contributing** means that colleagues are contributing to the project, but the team lead or comitting rights are handled by someone else in the Community.
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 🌐 Ecosystem Strategy
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+With countless valuable projects and limited resources, we make **strategic choices** to ensure high-quality support for our community. Below are the levels of support we provide for various tools and projects:
+
+* **🔧 Maintained**: These projects have dedicated colleagues assigned to **actively monitor and maintain** the development, bug fixes, and updates.
+  
+* **🤝 Contributing**: Our team members **contribute** to these projects, though they are managed by other leaders within the community, ensuring broader collaboration and shared responsibility.
+
+By carefully selecting and supporting projects, OTC brings **high standards** and **reliable innovation** to the open-source community.
+
+---
