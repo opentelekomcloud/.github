@@ -26,5 +26,3 @@ With countless valuable projects and limited resources, we make **strategic choi
 * **🤝 Contributing**: Our team members **contribute** to these projects, though they are managed by other leaders within the community, ensuring broader collaboration and shared responsibility.
 
 By carefully selecting and supporting projects, OTC brings **high standards** and **reliable innovation** to the open-source community.
-
----
