@@ -1,28 +1,25 @@
-# 🌐 Open Telekom Cloud
+# Open Telekom Cloud 
 
-The **Open Telekom Cloud** (OTC) is the public cloud offering from **Deutsche Telekom**, managed and operated by **T-Systems International** and its global teams. OTC is based on **OpenStack**, an open-source cloud platform governed by the **OpenInfra Foundation** and the OpenStack community. This platform combines the **security**, **scalability**, and **flexibility** of open-source cloud technology with comprehensive support from Deutsche Telekom's global infrastructure.
-
----
-
-### 🌱 Our Mission and Values
-
-OTC is built on **transparency**, **collaboration**, and **openness**. We develop our resources—such as tools, utilities, libraries, documentation, tutorials, and blueprints—in the open and under open-source licenses. This ensures that both our internal and external developers can freely access and contribute to OTC’s resources, driving innovation and inclusivity.
-
----
-## 🚫 We Are Against Wars!
-
-We believe there are **better ways to resolve conflicts** than through armed actions. Our choice to list or not list specific parties does **not imply taking sides**.
-
-
+T-Systems International's global teams operate Deutsche Telekom's public cloud service Open Telekom Cloud. OpenStack functions as the open-source cloud platform that builds the cloud and receives oversight from the OpenInfra Foundation community. Open Telekom Cloud combines secure and scalable open-source technology with a reliable global infrastructure that offers flexible solutions.
 
 ---
 
-## 🌐 Ecosystem Strategy
+## Our Values 
 
-With countless valuable projects and limited resources, we make **strategic choices** to ensure high-quality support for our community. Below are the levels of support we provide for various tools and projects:
+We stand by open operations which promote transparency and cooperative practices. Our commitment to transparency drives us to create all our resources under open-source licenses whether they are tools, libraries, documentation or tutorials. Both our internal teams and external developers have the opportunity to access and contribute to our development projects. The adoption of this approach boosts both innovation and inclusivity throughout our process. We believe all resources should be developed in this same manner.
 
-* **🔧 Maintained**: These projects have dedicated colleagues assigned to **actively monitor and maintain** the development, bug fixes, and updates.
-  
-* **🤝 Contributing**: Our team members **contribute** to these projects, though they are managed by other leaders within the community, ensuring broader collaboration and shared responsibility.
+---
 
-By carefully selecting and supporting projects, OTC brings **high standards** and **reliable innovation** to the open-source community.
+## Our Position on the Conflicts 
+
+We hold fast to the conviction that discussion and negotiation should resolve disputes instead of using force.
+Choosing not to identify stakeholders in a conflict represents neutrality as it works toward maintaining peace among all conflicting parties.
+
+---
+
+## How We Support the Ecosystem 
+
+The time constraints of the day require us to carefully select our areas of influence among multiple important projects. Here’s our theory of change: 
+
+* **Maintained** Projects: Every maintained project benefits from dedicated team members who perform active development monitoring along with bug fixing and update management. 
+* **Contributing** Projects: Our team members actively participate in community-led projects to maintain their successful operations. By focusing our efforts selectively we can produce high-quality reliable innovations for the open-source community while avoiding overextension
