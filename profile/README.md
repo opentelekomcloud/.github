@@ -1,25 +1,11 @@
-# Open Telekom Cloud 
+# T Cloud Public - Europe’s No. 1
 
-T-Systems International's global teams operate Deutsche Telekom's public cloud service Open Telekom Cloud. OpenStack functions as the open-source cloud platform that builds the cloud and receives oversight from the OpenInfra Foundation community. Open Telekom Cloud combines secure and scalable open-source technology with a reliable global infrastructure that offers flexible solutions.
+T-Systems International's global teams operate Deutsche Telekom's public cloud service T Cloud Public. OpenStack functions as the open-source cloud platform that builds the cloud and receives oversight from the OpenInfra Foundation community. Open Telekom Cloud combines secure and scalable open-source technology with a reliable global infrastructure that offers flexible solutions.
 
----
+## More than a new name – a clear promise to you.
 
-## Our Values 
+T Cloud Public stands for greater functionality, better user experiences and scalable services. Our ambition: a cloud that is simpler, more predictable and more secure for you. Now we are taking the next step. For you. For your future.
 
-We stand by open operations which promote transparency and cooperative practices. Our commitment to transparency drives us to create all our resources under open-source licenses whether they are tools, libraries, documentation or tutorials. Both our internal teams and external developers have the opportunity to access and contribute to our development projects. The adoption of this approach boosts both innovation and inclusivity throughout our process. We believe all resources should be developed in this same manner.
+Today, digital decisions increasingly determine how freely, securely and sustainably companies can operate. That’s why more than pure cloud performance is needed – it requires trust, transparency and genuine freedom of choice. T Cloud Public delivers exactly that.
 
----
-
-## Our Position on the Conflicts 
-
-We hold fast to the conviction that discussion and negotiation should resolve disputes instead of using force.
-Choosing not to identify stakeholders in a conflict represents neutrality as it works toward maintaining peace among all conflicting parties.
-
----
-
-## How We Support the Ecosystem 
-
-The time constraints of the day require us to carefully select our areas of influence among multiple important projects. Here’s our theory of change: 
-
-* **Maintained** Projects: Every maintained project benefits from dedicated team members who perform active development monitoring along with bug fixing and update management. 
-* **Contributing** Projects: Our team members actively participate in community-led projects to maintain their successful operations. By focusing our efforts selectively we can produce high-quality reliable innovations for the open-source community while avoiding overextension
+As Deutsche Telekom’s European alternative to hyperscalers, T Cloud Public is developed and operated in Europe, gives organisations full control over their data and infrastructure, and integrates seamlessly into modern multi-cloud strategies. In this way, it not only protects against geopolitical, regulatory and economic risks, but also lays the foundation for sustainable digital sovereignty. T Cloud Public is Telekom’s public cloud. For organisations that want to shape their digital future independently.
