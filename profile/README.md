@@ -1,6 +1,6 @@
 # T Cloud Public - Europe’s No. 1
 
-T-Systems International's global teams operate Deutsche Telekom's public cloud service T Cloud Public. OpenStack functions as the open-source cloud platform that builds the cloud and receives oversight from the OpenInfra Foundation community. Open Telekom Cloud combines secure and scalable open-source technology with a reliable global infrastructure that offers flexible solutions.
+T-Systems International's global teams operate Deutsche Telekom's public cloud service T Cloud Public. OpenStack functions as the open-source cloud platform that builds the cloud and receives oversight from the OpenInfra Foundation community. T Cloud Public combines secure and scalable open-source technology with a reliable global infrastructure that offers flexible solutions.
 
 ## More than a new name – a clear promise to you.
 
